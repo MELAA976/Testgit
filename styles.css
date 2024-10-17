@@ -11,3 +11,8 @@ html {
 *::first-letter {
     text-transform: capitalize;
 }
+
+body{
+    background-color: brown;
+}
+
